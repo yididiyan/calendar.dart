@@ -3,8 +3,14 @@ Port for Python's calendar.py to Dart
 
 
 ## Installation 
+### Add dependancies
+```yaml
+dependencies:
+  dart_calendar: 0.0.x  #latest version 
 ```
-pub get 
+### Then
+```bash 
+pub get
 ```
 
 ## Usage 
