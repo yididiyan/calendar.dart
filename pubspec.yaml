@@ -1,5 +1,6 @@
 name: dart_calendar
-description: Customizable calendar module for dart 
+description: Customizable calendar module for dart. It comes handy when creating Dart user interfaces either for web or mobile. Month calendar, Year calendar and custom calendar(specified range of dates) are included with an option of selection first week day in the calendar. 
+
 version: 0.0.1
 homepage: https://github.com/Yididya/moment
 author: Yididiya Yilma <yididiya.yilma@gmail.com>

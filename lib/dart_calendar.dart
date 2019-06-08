@@ -1,7 +1,10 @@
-/**
- * Inspired by calendar.py
- */
+/// Inspired by :
+/// * https://github.com/ramalho/calendar.js/
+/// * And Python's calendar.py
+
+
 class Calendar {
+  
   int weekStartDay;
   
   Calendar({
