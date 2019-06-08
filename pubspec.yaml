@@ -1,0 +1,11 @@
+name: calendar
+description: Customizable calendar module for dart 
+version: 0.0.1
+homepage: https://github.com/Yididya/moment
+author: Yididiya Yilma <yididiya.yilma@gmail.com>
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+dev_dependencies:
